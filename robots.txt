@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gemini-omni.github.io/sitemap.xml
