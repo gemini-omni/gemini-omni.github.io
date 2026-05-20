@@ -1,4 +1,4 @@
-const CTA_URL = "https://www.aicovea.com/gemini-omni";
+const CTA_URL = "https://www.omniflashgenerator.com/";
 
 function redirectToCTA(targetUrl = CTA_URL) {
   window.location.href = targetUrl;

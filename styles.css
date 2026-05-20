@@ -1092,7 +1092,8 @@ textarea::placeholder {
 
 .page-hero-copy h1 {
   max-width: none;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
   font-size: clamp(1.8rem, 2.55vw, 2.45rem);
 }
 
